@@ -1,3 +1,4 @@
+---
 layout: post
 title: Mi primer post!
 categories: github
