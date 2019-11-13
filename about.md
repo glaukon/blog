@@ -3,23 +3,23 @@ layout: page
 title: Acerca de mi
 permalink: /about/
 ---
-#### Contacto ####
+Contacto
 
 ![glaukon]({{ site.baseurl }}/images/andresalvarez.jpg)
 
-#### Estudios ####
+Estudios
 <ol>
     <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
     </ol>
-#### Conocimientos informaticos ####
+Conocimientos informaticos
 <ol>Sistemas </pl>
     <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012 Nivel Alto</lu>
     <li>Linux (Ubuntu). Nivel Medio</li>
-* Lenguajes de Programación.
-    HTML5. Nivel Alto.
-    CSS3. Nivel Alto
-* Aplicaciones Web.
+<ol>Lenguajes de Programación.</ol>
+    <li>HTML5. Nivel Alto.</li>
+   <li>CSS3. Nivel Alto</li>
+<ol>Aplicaciones Web.</ol>
     Wordpress. Nivel Medio.
     Joomla. Nivel Bajo.
     Xampp. Nivel Medio.
