@@ -13,12 +13,14 @@ Estudios
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
     </ol>
 Conocimientos informaticos
-<ol>Sistemas </ol>
+<ol> Sistemas 
     <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012 Nivel Alto</li>
     <li>Linux (Ubuntu). Nivel Medio</li>
-<ol>Lenguajes de Programación.</ol>
+    </ol>
+<ol>Lenguajes de Programación.
     <li>HTML5. Nivel Alto.</li>
     <li>CSS3. Nivel Alto</li>
+    </ol>
 <ol>Aplicaciones Web.
    <li> Wordpress. Nivel Medio.</li>
     <li>Joomla. Nivel Bajo.</li>
@@ -26,12 +28,12 @@ Conocimientos informaticos
     <li>Prestashop. Nivel Medio.</li>
     <li>MySQL. Nivel Bajo.</li>
     <li>Oracle 11g.</li>
-    
-<ol>
-    Lenguajes de Programacion
+    </ol>
+<ol>Lenguajes de Programacion
     <li>Java</li>
     <li>c#</li>
 </ol>
+
 Email 
 
 [Andrés Álvarez](mailto:andresalvarezgonzalez@gmail.com)
