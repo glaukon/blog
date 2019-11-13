@@ -15,25 +15,25 @@ permalink: /about/
 <h1>Conocimientos informaticos</h1>
     <li>Sistemas:</li>
     <ol>
-    <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012 Nivel Alto</li>
-    <li>Linux (Ubuntu). Nivel Medio</li>
+    <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012</li>
+    <li>Linux (Debia, Ubuntu, Linux Mint)</li>
 </ol>
 
 <li>Lenguajes de Programación:</li>
 <ol>
-    <li>HTML5. Nivel Alto.</li>
-    <li>CSS3. Nivel Alto</li>
+    <li>HTML5.</li>
+    <li>CSS3.</li>
     <li>Java</li>
     <li>c#</li>
 </ol>
 
 <li>Aplicaciones Web:</li>
 <ol>
-    <li> Wordpress. Nivel Medio.</li>
-    <li>Joomla. Nivel Bajo.</li>
-    <li>Xampp. Nivel Medio.</li>
-    <li>Prestashop. Nivel Medio.</li>
-    <li>MySQL. Nivel Bajo.</li>
+    <li> Wordpress.</li>
+    <li>Joomla.</li>
+    <li>Xampp.</li>
+    <li>Prestashop.</li>
+    <li>MySQL.</li>
     <li>Oracle 11g.</li>
     </ol>
 </ul>
