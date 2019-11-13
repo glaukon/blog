@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <h1>Contacto</h1>
 
-![glaukon]({{ site.baseurl }}/images/andresalvarez.jpg)
+![glaukon]({{ site.baseurl }}/images/andresalvarez_B.png)
 
 <ul>
 
