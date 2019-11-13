@@ -6,7 +6,6 @@ permalink: /about/
 <h1>Contacto</h1>
 
 ![andresalvarez]({{ site.baseurl }}/images/andresalvarez.png)
-
 <ul>
 <h1>Estudios Realizados</h1>
 <ol>
@@ -24,6 +23,8 @@ permalink: /about/
 <ol>
     <li>HTML5. Nivel Alto.</li>
     <li>CSS3. Nivel Alto</li>
+    <li>Java</li>
+    <li>c#</li>
 </ol>
 
 <li>Aplicaciones Web:</li>
@@ -35,12 +36,6 @@ permalink: /about/
     <li>MySQL. Nivel Bajo.</li>
     <li>Oracle 11g.</li>
     </ol>
-
-<li>Lenguajes de Programacion:</li>
-<ol>
-    <li>Java</li>
-    <li>c#</li>
-</ol>
 </ul>
 
 <h1>Email </h1>
