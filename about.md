@@ -21,12 +21,14 @@ Conocimientos informaticos
     <li>Linux (Ubuntu). Nivel Medio</li>
 </ol>
 
-Lenguajes de Programación:
+<li>Lenguajes de Programación:</li>
+<ol>
     <li>HTML5. Nivel Alto.</li>
     <li>CSS3. Nivel Alto</li>
-    
+</ol>
 
-Aplicaciones Web:
+<li>Aplicaciones Web:</li>
+<ol>
    <li> Wordpress. Nivel Medio.</li>
     <li>Joomla. Nivel Bajo.</li>
     <li>Xampp. Nivel Medio.</li>
@@ -35,9 +37,11 @@ Aplicaciones Web:
     <li>Oracle 11g.</li>
     </ol>
 
-Lenguajes de Programacion:
+<li>Lenguajes de Programacion:</li>
+<ol>
     <li>Java</li>
     <li>c#</li>
+    </ol>
 </ul>
 
 Email 
