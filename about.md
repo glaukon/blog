@@ -7,9 +7,11 @@ permalink: /about/
 
 ![glaukon]({{ site.baseurl }}/images/andresalvarez.jpg)
 
-
-* Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).
-* 2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva
+#### Estudios ####
+<ol>
+    <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
+    <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
+#### Conocimientos informaticos ####
 * Sistemas 
     Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012 Nivel Alto
     Linux (Ubuntu). Nivel Medio
@@ -23,6 +25,9 @@ permalink: /about/
     Prestashop. Nivel Medio.
     MySQL. Nivel Bajo.
     Oracle 11g.
+*Lenguajes de Programacion.
+    Java
+    c#
 
 
 
