@@ -11,7 +11,7 @@ Estudios Realizados
 <ul>
     <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
-    </ul>
+</ul>
 Conocimientos informaticos
 <ul>
     Sistemas
@@ -32,10 +32,10 @@ Conocimientos informaticos
     <li>MySQL. Nivel Bajo.</li>
     <li>Oracle 11g.</li>
     </ol>
-<ol>Lenguajes de Programacion
+<ul>Lenguajes de Programacion
     <li>Java</li>
     <li>c#</li>
-</ol>
+</ul>
 
 Email 
 
