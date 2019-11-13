@@ -3,18 +3,18 @@ layout: page
 title: Acerca de mi
 permalink: /about/
 ---
-Contacto
+<h1>Contacto</h1>
 
 ![glaukon]({{ site.baseurl }}/images/andresalvarez.jpg)
 
 <ul>
 
-<h2>Estudios Realizados</h2>
+<h1>Estudios Realizados</h1>
 <ol>
     <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
 </ol>
-<h2>Conocimientos informaticos</h2>
+<h1>Conocimientos informaticos</h1>
 
     <li>Sistemas:</li>
     <ol>
@@ -45,7 +45,7 @@ Contacto
     </ol>
 </ul>
 
-Email 
+<h1>Email </h1>
 
 [Andrés Álvarez](mailto:andresalvarezgonzalez@gmail.com)
 
