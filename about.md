@@ -8,7 +8,6 @@ permalink: /about/
 ![andresalvarez]({{ site.baseurl }}/images/andresalvarez.png)
 
 <ul>
-
 <h1>Estudios Realizados</h1>
 <ol>
     <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
@@ -29,7 +28,7 @@ permalink: /about/
 
 <li>Aplicaciones Web:</li>
 <ol>
-   <li> Wordpress. Nivel Medio.</li>
+    <li> Wordpress. Nivel Medio.</li>
     <li>Joomla. Nivel Bajo.</li>
     <li>Xampp. Nivel Medio.</li>
     <li>Prestashop. Nivel Medio.</li>
@@ -41,7 +40,7 @@ permalink: /about/
 <ol>
     <li>Java</li>
     <li>c#</li>
-    </ol>
+</ol>
 </ul>
 
 <h1>Email </h1>
