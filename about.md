@@ -13,8 +13,8 @@ Estudios Realizados
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
 </ul>
 Conocimientos informaticos
-<ul>
-    Sistemas
+<ul><dl>
+    <dt>Sistemas:</dt>
     <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012 Nivel Alto</li>
     <li>Linux (Ubuntu). Nivel Medio</li>
 </ul>
