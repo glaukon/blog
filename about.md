@@ -7,17 +7,20 @@ Contacto
 
 ![glaukon]({{ site.baseurl }}/images/andresalvarez.jpg)
 
-Estudios Realizados
 <ul>
+
+<li>Estudios Realizados</li>
+
     <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
 </ul>
 Conocimientos informaticos
 <ul>
-Sistemas:
+    <li>Sistemas:</li>
+    <ol>
     <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012 Nivel Alto</li>
     <li>Linux (Ubuntu). Nivel Medio</li>
-</ul>
+</ol>
 <ul>
 Lenguajes de Programación:
     <li>HTML5. Nivel Alto.</li>
