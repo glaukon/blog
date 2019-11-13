@@ -54,11 +54,3 @@ Informática
         ◦ Prestashop. Nivel Medio.
         ◦ MySQL. Nivel Bajo.
 
-Otros datos de interés
-
-    • Carné de conducir B, coche propio.
-    • Disponibilidad para viajar.
-    • Discapacidad del 36% valida hasta 2021.
-
-
-
