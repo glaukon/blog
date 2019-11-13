@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de mi
-permalink: /about/
+permalink: /Acerca de mi/
 ---
 Contacto
 
