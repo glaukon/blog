@@ -5,7 +5,7 @@ permalink: /about/
 ---
 #### Contacto ####
 
-![glaukon]({{ site.baseurl }}/images/)
+![glaukon]({{ site.baseurl }}/images/andresalvarez.jpg)
 
 
 * Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).
