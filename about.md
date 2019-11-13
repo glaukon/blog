@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <h1>Contacto</h1>
 
-![glaukon]({{ site.baseurl }}/images/andresalvarez.png)
+![andresalvarez]({{ site.baseurl }}/images/andresalvarez.png)
 
 <ul>
 
@@ -15,7 +15,6 @@ permalink: /about/
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
 </ol>
 <h1>Conocimientos informaticos</h1>
-
     <li>Sistemas:</li>
     <ol>
     <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012 Nivel Alto</li>
