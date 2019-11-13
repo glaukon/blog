@@ -10,9 +10,10 @@ Contacto
 <ul>
 
 Estudios Realizados
-
+<ol>
     <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
+</ol>
 Conocimientos informaticos
 
     <li>Sistemas:</li>
