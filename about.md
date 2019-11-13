@@ -45,7 +45,6 @@ permalink: /about/
 </ul>
 
 <h1>Email </h1>
-
 [Andrés Álvarez](mailto:andresalvarezgonzalez@gmail.com)
 
 
