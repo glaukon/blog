@@ -7,12 +7,12 @@ permalink: /about/
 
 ![andresalvarez]({{ site.baseurl }}/images/andresalvarez.png)
 <ul>
-<h1>Estudios Realizados</h1>
+<h2>Estudios Realizados</h2>
 <ol>
     <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
 </ol>
-<h1>Conocimientos Informáticos</h1>
+<h2>Conocimientos Informáticos</h2>
     <li>Sistemas:</li>
     <ol>
     <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012</li>
@@ -38,7 +38,7 @@ permalink: /about/
     </ol>
 </ul>
 
-<h1>Email </h1>
+<h2>Email </h2>
 [Andrés Álvarez](mailto:andresalvarezgonzalez@gmail.com)
 
 
