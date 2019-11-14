@@ -3,7 +3,7 @@ layout: page
 title: Acerca de mi
 permalink: /about/
 ---
-<h1>Contacto</h1>
+
 
 ![andresalvarez]({{ site.baseurl }}/images/andresalvarez.png)
 <ul>
