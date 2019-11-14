@@ -12,7 +12,7 @@ permalink: /about/
     <li>Cursando: Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web (a distancia).</li>
     <li>2003 / 2005 Grado Medio de Explotación de Sistemas Informáticos. IES Ingeniero de la Cierva</li>
 </ol>
-<h1>Conocimientos informaticos</h1>
+<h1>Conocimientos Informáticos</h1>
     <li>Sistemas:</li>
     <ol>
     <li>Microsoft Windows: Windows 7, Windows 10, Windows Server 2008 y 2012</li>
@@ -29,7 +29,7 @@ permalink: /about/
 
 <li>Aplicaciones Web:</li>
 <ol>
-    <li> Wordpress.</li>
+    <li>Wordpress.</li>
     <li>Joomla.</li>
     <li>Xampp.</li>
     <li>Prestashop.</li>
