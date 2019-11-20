@@ -52,6 +52,8 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
+remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
 
 permalink: /:title/
 
