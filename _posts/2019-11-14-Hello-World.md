@@ -6,8 +6,8 @@ published: true
 ---
 ![New!](/images/new.png)
 
-Hola a tod@s este es mi primer post en github con [jekyll-now](jekyllrb.com/docs/posts/) el cual he creado gracias la ayuda del grupo de [telegram](t.me/experimentaconjekyll) de jekyll que por casualidad encontre hace unos dias, asi que con su ayuda y mi sudor he sido capaz de seguir todos los pasos de esta [guia](https://www.blogpocket.com/2018/09/02/tener-un-blog-con-github-y-jekyll/) el cual explica muy bien como llegar a tener un pequeño blog personal y gratuito como este.<br><br>
-Despúes de mucho buscar y volver a buscar, un día (principios de semana) me encontre con un articulo que hablaba de <b>jekyll</b> como aplicación para github y gitlab para crear blog personales, e inmediatamente me puse a mirar blog, videos, y un largo etc.., hasta hoy que porfín he sacado un rato para ponerlo todo en marcha, que para nada es dificil, pero es farragoso y mas cuando nunca has trasteado con github o gitlab.<br><br>
-Pero bueno no todo es malo, por fin tengo un blog gratuito con un domino que me gusta y alojado en github, que antes o despues tendre que empezar a usar ya que como programador tendre que empezar a subir mis repositorios de software gratuito y open source.<br>
+Hola a tod@s este es mi primer post en github con [jekyll-now](jekyllrb.com/docs/posts/) lo he creado gracias a la ayuda del grupo de [telegram](t.me/experimentaconjekyll) de jekyll, que por casualidad encontré hace unos días, así que con su ayuda y mi paciencia he sido capaz de seguir todos los pasos de esta [guia](https://www.blogpocket.com/2018/09/02/tener-un-blog-con-github-y-jekyll/) el cual donde se explica muy bien como llegar a tener un pequeño blog personal y gratuito como este.<br><br>
+Después de mucho buscar y volver a buscar, un día (a principios de semana) me encontré con un artículo que hablaba de <b>jekyll</b> como aplicación para github y gitlab para crear blog personales e inmediatamente me puse a mirar blogs, videos y un largo etc..,  hasta que por fin hoy he encontrado un hueco para ponerlo todo en marcha. No es difícil, aunque si farragoso y mas cuando nunca has trasteado github o gitlab.<br><br>
+Por fin tengo mi blog gratuito con un domino que me gusta y alojado en github. que Antes o después tendré que empezar a usarlo porque como programador tendré que empezar a subir mis repositorios de software gratuito y open source.<br>
 
-No quiero aburriros más, asi que me despido hasta pronto con un nuevo post.
+No quiero aburriros más, así que me despido hasta el próximo post.
