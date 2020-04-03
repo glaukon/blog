@@ -6,7 +6,7 @@
 name: Andrés Álvarez 
 
 # Short bio or description (displayed in the header)
-description: \ Web Development \ Software \ Games \
+description: \ Tutorials \ Software \ Games \
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/andresalvarez.png
 
@@ -55,7 +55,7 @@ baseurl: ""
 
 
 permalink: /:title/
-
+remote_theme: artemsheludko/flexible-jekyll.git
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
