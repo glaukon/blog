@@ -55,7 +55,7 @@ baseurl: ""
 
 
 permalink: /:title/
-remote_theme: artemsheludko/flexible-jekyll.git
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
